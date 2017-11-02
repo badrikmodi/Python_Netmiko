@@ -3,35 +3,35 @@
 from netmiko import ConnectHandler
 
 iosv_l2_s1 = {
-    'device_type': 'modi_ios',
+    'device_type': 'cisco_ios',
     'ip': '192.168.122.71',
     'username': 'badrik',
     'password': 'modi',
 }
 
 iosv_l2_s2 = {
-    'device_type': 'modi_ios',
+    'device_type': 'cisco_ios',
     'ip': '192.168.122.72',
     'username': 'badrik',
     'password': 'modi',
 }
 
 iosv_l2_s3 = {
-    'device_type': 'modi_ios',
+    'device_type': 'cisco_ios',
     'ip': '192.168.122.73',
     'username': 'badrik',
     'password': 'modi',
 }
 
 iosv_l2_s4 = {
-    'device_type': 'modi_ios',
+    'device_type': 'cisco_ios',
     'ip': '192.168.122.74',
     'username': 'badrik',
     'password': 'modi',
 }
 
 iosv_l2_s5 = {
-    'device_type': 'modi_ios',
+    'device_type': 'cisco_ios',
     'ip': '192.168.122.75',
     'username': 'badrik',
     'password': 'modi',
